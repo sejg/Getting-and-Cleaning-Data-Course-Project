@@ -1,6 +1,6 @@
-## Code Book
+# Code Book
 
-# R Script
+## R Script
 
 `run_analysis.R` performs the following steps to obtain `tidydata.txt`
 
@@ -9,7 +9,7 @@
 3. Only the data pertaining to mean or standard deviation is selected
 4. Appropriate names are attached to the data
 
-# Variables
+## Variables
 1.Subject
   The ID of the volunteer who performed the activity
 2.Activity
